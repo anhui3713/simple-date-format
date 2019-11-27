@@ -1,0 +1,43 @@
+{
+  "_from": "simple-date-format",
+  "_id": "simple-date-format@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-2/+GDJWCPPwI1GYhXYNCESpr9E1eM/ZolwwSx0rhqBZ45lb4EqqXefrhEHlrazNT6pmpeo4xOZ5ZWHlN1XYZ7Q==",
+  "_location": "/simple-date-format",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "simple-date-format",
+    "name": "simple-date-format",
+    "escapedName": "simple-date-format",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://verdaccio.nbmm.co:34873/simple-date-format/-/simple-date-format-1.0.0.tgz",
+  "_shasum": "899eb79c1d5ad3f80a77f724cdfeea6aa648925d",
+  "_spec": "simple-date-format",
+  "_where": "/Users/connor/workspaces/projects/nbm.frontend.sporttery2",
+  "author": {
+    "name": "Connor"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "简易版转换日期到字符串工具",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "simple-date-format",
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.nbmm.co:38888/fe/common-modules/simple-date-format.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
